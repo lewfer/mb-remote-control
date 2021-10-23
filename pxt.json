@@ -1,5 +1,5 @@
 {
-    "name": "tcl-mb-controller",
+    "name": "think-create-learn-controller",
     "description": "",
     "dependencies": {
         "core": "*",
