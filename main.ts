@@ -1,4 +1,5 @@
-//% color="#ff7f50" icon="\uf06e" block="Controller"
+
+//% color="#ff7f50" icon="\uf0b2" block="Controller"
 namespace plotter {
 
     //% blockId=sendMessage
