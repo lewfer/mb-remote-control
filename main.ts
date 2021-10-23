@@ -1,5 +1,10 @@
+/**
+ * MakeCode extension for Think Create Learn Controller
+ * By default uses the microbit accelerometer and buttons.
+ * If plugged into an Elecfreaks Joystick:Bit it will use that instead.
+ */
 
-//% color="#ff7f50" icon="\uf0b2" block="Controller"
+//% color="#ff7f50" icon="\uf11b" block="Controller"
 namespace plotter {
 
     //% blockId=sendMessage
