@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/lewfer/tcl-mb-controller** and import
+* search for **github:lewfer/microbit-ext-remote-controller** and import
 
 ## Edit this project ![Build status badge](https://github.com/lewfer/tcl-mb-controller/workflows/MakeCode/badge.svg)
 
